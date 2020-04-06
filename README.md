@@ -1,3 +1,6 @@
+Brainfuck parts of the book GRM (Brainfuck) by @SybilleBerg.
+Page numbers are based on the german edition of the book.
+
 EX2279 S. 161
 =============
 

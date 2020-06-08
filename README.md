@@ -1,4 +1,4 @@
-Brainfuck parts of the book [GRM (Brainfuck)](https://www.sibylleberg.com/de/buecher/grm-brainfuck) by @SybilleBerg.
+Brainfuck parts of the book [GRM (Brainfuck)](https://www.sibylleberg.com/de/buecher/grm-brainfuck) by [@SybilleBerg](https://twitter.com/SibylleBerg).
 Page numbers are based on the german edition of the book.
 
 EX2279 S. 161
